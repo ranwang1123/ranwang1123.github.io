@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ran Wang "
+title                    : "About me "
 title_separator          : "-"
 name                     : &name "Ran Wang"
 description              : &description "personal description"
