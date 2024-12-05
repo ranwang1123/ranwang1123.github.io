@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ran Wang"
+title: "About me - Ran Wang"
 author_profile: true
 redirect_from: 
   - /about/
